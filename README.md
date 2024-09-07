@@ -6,6 +6,6 @@ Install the dependencies.
 - **Profile Picture**: Update your profile picture by clicking on your avatar.
 - Some Api Used like for the notifation and user image uploading.
   Backend-----
-  Firebase Authentication
-  Firebase database
+  Firebase Authentication,
+  Firebase database,
   Storage
