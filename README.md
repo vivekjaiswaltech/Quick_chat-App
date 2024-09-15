@@ -9,5 +9,7 @@
 - Backend 
 - Firebase Authentication,
 - Firebase database,
-- Firebase Storage
+- Firebase Storage,
 - Firebase messaging
+- Download Apk File then install and use
+- Give feedback with star and follow me
